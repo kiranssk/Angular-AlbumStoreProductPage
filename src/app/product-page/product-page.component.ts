@@ -7,10 +7,9 @@ import { Component, OnInit } from "@angular/core";
   styleUrls: ["./product-page.component.css"],
 })
 export class ProductPageComponent implements OnInit {
-  
-  albumInfo;
 
   constructor() {}
 
   ngOnInit() {
+}
 }
